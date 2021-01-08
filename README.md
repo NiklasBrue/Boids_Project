@@ -14,3 +14,7 @@ Esc
 
 Add obstacles or attractors:
 Go to where they should be added with the mouse and press o/a
+
+## 
+
+A big shoutout to Michael Dodsworth for providing his work free of use. See his original work at: https://github.com/mdodsworth/pyglet-boids
